@@ -1,1 +1,1 @@
-# get-daily-arxiv-noti
+# Get daily arxiv notification with pre-defined keywords
